@@ -14,5 +14,9 @@
   {
     "role": "ai_message",
     "content": "Certainly! I'll create a page similar to the one shown in the image. The image displays a simple \"Hello World!\" page with a blue heading and a green subheading. Let's implement this in our React application.\n\n\n\nNow, let's update the `Index.tsx` file to create the page similar to the one in the image:\n\n\n\nThese changes should create a page that closely resembles the one in the image, with a blue \"Hello World!\" heading and a green \"Welcome to my first web page!\" subheading.\n</HST-code>\n\nThe page has been updated to match the image, with a blue \"Hello World!\" heading and a green welcome message."
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n[ERROR] Deployment failed for 'hst-ai-62a3c170-b324-4e8b-b625-fd9fd060c9bd'. Exit code: 1\n\nPlease fix the issue."
   }
 ]
